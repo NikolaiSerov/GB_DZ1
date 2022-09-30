@@ -10,9 +10,9 @@ int numberB = int.Parse(Console.ReadLine()!);
 
 if (numberA > numberB)
 { 
-    Console.WriteLine($"MAX={numberA}, Min = {numberB}");
+    Console.WriteLine($"MAX = {numberA}, Min = {numberB}");
 }
 else 
 {
-    Console.WriteLine($"Max = {numberB}, Min ={numberA}");
+    Console.WriteLine($"Max = {numberB}, Min = {numberA}");
 }
