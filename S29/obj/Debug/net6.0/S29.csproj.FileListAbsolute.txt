@@ -1,0 +1,15 @@
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.csproj.AssemblyReference.cache
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.AssemblyInfoInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.AssemblyInfo.cs
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.csproj.CoreCompileInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\S29\bin\Debug\net6.0\S29.exe
+D:\C#Lessons\0_Lesson\DZ1\S29\bin\Debug\net6.0\S29.deps.json
+D:\C#Lessons\0_Lesson\DZ1\S29\bin\Debug\net6.0\S29.runtimeconfig.json
+D:\C#Lessons\0_Lesson\DZ1\S29\bin\Debug\net6.0\S29.dll
+D:\C#Lessons\0_Lesson\DZ1\S29\bin\Debug\net6.0\S29.pdb
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.dll
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\refint\S29.dll
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.pdb
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\S29.genruntimeconfig.cache
+D:\C#Lessons\0_Lesson\DZ1\S29\obj\Debug\net6.0\ref\S29.dll
