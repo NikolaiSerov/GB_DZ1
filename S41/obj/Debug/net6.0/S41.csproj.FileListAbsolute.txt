@@ -1,0 +1,15 @@
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.csproj.AssemblyReference.cache
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.AssemblyInfoInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.AssemblyInfo.cs
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.csproj.CoreCompileInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\S41\bin\Debug\net6.0\S41.exe
+D:\C#Lessons\0_Lesson\DZ1\S41\bin\Debug\net6.0\S41.deps.json
+D:\C#Lessons\0_Lesson\DZ1\S41\bin\Debug\net6.0\S41.runtimeconfig.json
+D:\C#Lessons\0_Lesson\DZ1\S41\bin\Debug\net6.0\S41.dll
+D:\C#Lessons\0_Lesson\DZ1\S41\bin\Debug\net6.0\S41.pdb
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.dll
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\refint\S41.dll
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.pdb
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\S41.genruntimeconfig.cache
+D:\C#Lessons\0_Lesson\DZ1\S41\obj\Debug\net6.0\ref\S41.dll
