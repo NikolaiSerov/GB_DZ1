@@ -38,7 +38,7 @@ void MidSummColumns(int[,] inArray)
         double summ = 0;
         for (int i = 0; i < inArray.GetLength(0); i++)
         {
-            summ += summ + inArray[i, j];
+            summ += inArray[i, j];
         }
         Console.Write($"{summ / inArray.GetLength(0)}; ");
     }
