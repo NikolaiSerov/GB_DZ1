@@ -1,0 +1,15 @@
+D:\C#Lessons\0_Lesson\DZ1\S56\bin\Debug\net6.0\S56.exe
+D:\C#Lessons\0_Lesson\DZ1\S56\bin\Debug\net6.0\S56.deps.json
+D:\C#Lessons\0_Lesson\DZ1\S56\bin\Debug\net6.0\S56.runtimeconfig.json
+D:\C#Lessons\0_Lesson\DZ1\S56\bin\Debug\net6.0\S56.dll
+D:\C#Lessons\0_Lesson\DZ1\S56\bin\Debug\net6.0\S56.pdb
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.csproj.AssemblyReference.cache
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.AssemblyInfoInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.AssemblyInfo.cs
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.csproj.CoreCompileInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.dll
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\refint\S56.dll
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.pdb
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\S56.genruntimeconfig.cache
+D:\C#Lessons\0_Lesson\DZ1\S56\obj\Debug\net6.0\ref\S56.dll
