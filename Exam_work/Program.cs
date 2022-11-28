@@ -6,6 +6,7 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+
 void CheckElements3(string[] arraystart, string[] arrayend)
 {
     int count = 0;
@@ -18,6 +19,7 @@ void CheckElements3(string[] arraystart, string[] arrayend)
         }
     }
 }
+
 
 Console.Clear();
 string[] Array = { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science" };
