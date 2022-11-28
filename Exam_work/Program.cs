@@ -35,3 +35,5 @@ void PrintArray(string[] array)
 Console.Clear();
 string[] Array = { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science" };
 string[] Result = new string[Array.Length];
+CheckElements3(Array, Result);
+PrintArray(Result);
