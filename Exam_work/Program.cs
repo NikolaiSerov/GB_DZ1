@@ -20,6 +20,17 @@ void CheckElements3(string[] arraystart, string[] arrayend)
     }
 }
 
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+
+    Console.WriteLine();
+}
+
+
 
 Console.Clear();
 string[] Array = { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science" };
