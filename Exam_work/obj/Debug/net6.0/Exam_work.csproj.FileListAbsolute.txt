@@ -1,0 +1,15 @@
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\bin\Debug\net6.0\Exam_work.exe
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\bin\Debug\net6.0\Exam_work.deps.json
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\bin\Debug\net6.0\Exam_work.runtimeconfig.json
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\bin\Debug\net6.0\Exam_work.dll
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\bin\Debug\net6.0\Exam_work.pdb
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.csproj.AssemblyReference.cache
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.AssemblyInfoInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.AssemblyInfo.cs
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.csproj.CoreCompileInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.dll
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\refint\Exam_work.dll
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.pdb
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\Exam_work.genruntimeconfig.cache
+D:\C#Lessons\0_Lesson\DZ1\Exam_work\obj\Debug\net6.0\ref\Exam_work.dll
