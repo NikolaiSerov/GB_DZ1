@@ -1,0 +1,15 @@
+D:\C#Lessons\0_Lesson\DZ1\tempwork\bin\Debug\net6.0\tempwork.exe
+D:\C#Lessons\0_Lesson\DZ1\tempwork\bin\Debug\net6.0\tempwork.deps.json
+D:\C#Lessons\0_Lesson\DZ1\tempwork\bin\Debug\net6.0\tempwork.runtimeconfig.json
+D:\C#Lessons\0_Lesson\DZ1\tempwork\bin\Debug\net6.0\tempwork.dll
+D:\C#Lessons\0_Lesson\DZ1\tempwork\bin\Debug\net6.0\tempwork.pdb
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.csproj.AssemblyReference.cache
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.AssemblyInfoInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.AssemblyInfo.cs
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.csproj.CoreCompileInputs.cache
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.dll
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\refint\tempwork.dll
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.pdb
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\tempwork.genruntimeconfig.cache
+D:\C#Lessons\0_Lesson\DZ1\tempwork\obj\Debug\net6.0\ref\tempwork.dll
